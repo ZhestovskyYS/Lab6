@@ -1,11 +1,9 @@
 package component
 
 import data.*
-import kotlinx.html.InputType
 import org.w3c.dom.events.Event
 import react.*
 import react.dom.h1
-import react.dom.input
 
 interface AppProps : RProps {
     var students: Array<Student>
