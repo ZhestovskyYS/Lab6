@@ -5,10 +5,10 @@
 - Массив lessons перенесен из props в state:  
 ![1](https://cdn.discordapp.com/attachments/465020961482342411/699869484369969152/unknown.png)
 
-- Создан компонент addLesson.
+- Создан компонент addLesson:
 ![5](https://cdn.discordapp.com/attachments/465020961482342411/706721529823756288/unknown.png)  
 
-- В app добавлена функция newLessonAdd:
+- В app добавлена функция newLessonAdd:  
 ![6](https://cdn.discordapp.com/attachments/465020961482342411/706725123750887474/unknown.png)
 
 - Вот программа с отресованным компонентом:  
